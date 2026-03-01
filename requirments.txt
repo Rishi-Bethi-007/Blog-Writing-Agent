@@ -1,0 +1,10 @@
+langgraph
+langchain
+langchain_openai
+dotenv
+langchain-community
+langgraph-checkpoint-sqlite
+langchain-core
+pandas
+streamlit
+google-genai
